@@ -1,0 +1,1 @@
+Aplicația va rula în Code:Blocks. Punctul de intrare este main.cpp.

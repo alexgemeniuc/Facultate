@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1744609639 source:c:\users\hp\desktop\proiect poo\translator român-englez\main.cpp
+	"Aplicatie.h"
+
+1743422244 c:\users\hp\desktop\proiect poo\translator român-englez\aplicatie.h
+	"dictionar.h"
+
+1743422402 c:\users\hp\desktop\proiect poo\translator român-englez\dictionar.h
+	<iostream>
+	<map>
+	<fstream>
+	<sstream>
+
+1743426539 source:c:\users\hp\desktop\proiect poo\translator român-englez\aplicatie.cpp
+	"Aplicatie.h"
+	"TratareExceptii.h"
+
+1743426546 source:c:\users\hp\desktop\proiect poo\translator român-englez\dictionar.cpp
+	"Dictionar.h"
+
+1743263981 c:\users\hp\desktop\proiect poo\translator român-englez\tratareerori.h
+	<iostream>
+	<string>
+
+1743263886 source:c:\users\hp\desktop\proiect poo\translator român-englez\tratareerori.cpp
+	"TratareErori.h"
+	<cctype>
+
+1743269229 c:\users\hp\desktop\proiect poo\translator român-englez\tratareexceptii.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1743338249 source:c:\users\hp\desktop\proiect poo\translator român-englez\tratareexceptii.cpp
+	"TratareExceptii.h"
+	<cctype>
+
